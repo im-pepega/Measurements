@@ -7,3 +7,16 @@ Moving Iron Instruments
 Electrostatic and Induction type Instruments
 Instrument Transformers
 CRO and Digital Instruments
+
+Types of Transducers : 
+    Resistive, Inductive, Capacitive
+    Hall Effect Sensors
+    Piezo-electric devices
+    Signal Conditioning devices
+    
+Measurements : 
+    Displacement, Velocity, Acceleration
+    Force, Torque, Vibrations
+    Pressure, Flow, Temperature
+    pH, Viscosity, Reynold's Number
+    4-20 mA Two-wire Transmitter
